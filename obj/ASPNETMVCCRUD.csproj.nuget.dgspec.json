@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rickson\\Documents\\GitHub\\ASPNET 6 CORE MVC CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj": {}
+    "C:\\Users\\Rickson\\Documents\\GitHub\\ASP-NET-MVC-CRUD-EF\\ASPNETMVCCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rickson\\Documents\\GitHub\\ASPNET 6 CORE MVC CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj": {
+    "C:\\Users\\Rickson\\Documents\\GitHub\\ASP-NET-MVC-CRUD-EF\\ASPNETMVCCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rickson\\Documents\\GitHub\\ASPNET 6 CORE MVC CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\Rickson\\Documents\\GitHub\\ASP-NET-MVC-CRUD-EF\\ASPNETMVCCRUD.csproj",
         "projectName": "ASPNETMVCCRUD",
-        "projectPath": "C:\\Users\\Rickson\\Documents\\GitHub\\ASPNET 6 CORE MVC CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+        "projectPath": "C:\\Users\\Rickson\\Documents\\GitHub\\ASP-NET-MVC-CRUD-EF\\ASPNETMVCCRUD.csproj",
         "packagesPath": "C:\\Users\\Rickson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rickson\\Documents\\GitHub\\ASPNET 6 CORE MVC CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\obj\\",
+        "outputPath": "C:\\Users\\Rickson\\Documents\\GitHub\\ASP-NET-MVC-CRUD-EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rickson\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tWxAam+sPHP4WrrYivmKb6M3AZ32SbLenaAuImTfMLm5lMyiqcFbxE4QqwoKeuhGd+q6h8Hb6ndk5gp7r/kWwg==",
+  "dgSpecHash": "RpSpJC/7F3duOjpU7DYM/pxF72Xf2dRXCFQaa4vsBtnXPxu6GLzRPnyqLMj2YuDCifXA8fvuFO60pJq1JYGxqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rickson\\Documents\\GitHub\\ASPNET 6 CORE MVC CRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD\\ASPNETMVCCRUD.csproj",
+  "projectFilePath": "C:\\Users\\Rickson\\Documents\\GitHub\\ASP-NET-MVC-CRUD-EF\\ASPNETMVCCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rickson\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rickson\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
